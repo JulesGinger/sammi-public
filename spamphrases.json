@@ -13,7 +13,9 @@
         "get view ers",
         "get vie wers",
         "your viewers provider",
-        "stream-promotion"
+        "stream-promotion",
+        "B̟est viewers on",
+        "B̟est viewers at"
     ],
     "regexMatch": "\\b(?:cheap viewers on|cheap viewers at|best viewers on|best viewers at|buy viewers on|buy viewers at)\\b"
 }
